@@ -1,0 +1,6 @@
+Author's name: Jingwen Liu
+Author's email: liu934@usc.edu
+
+In main function, I use infile and getline to get input, and store the size and burnt to 2 three dimension array.
+Then in 3 for loops, I pass the pancake and pancakepile to the MPancakepiles object and set the value. After setting all the values,
+I use the sort_interior function and sort_exterior function of MPancakepiles object. At last, make output as required.
